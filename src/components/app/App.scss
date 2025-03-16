@@ -1,0 +1,41 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Montserrat", sans-serif;
+}
+
+.btn {
+	cursor: pointer;
+	color: white;
+	font-size: 16px;
+	font-weight: 500;
+	padding: 15px;
+	background: #01b5e1;
+	border: 1px solid #01b5e1;
+	text-decoration: none;
+	transition: 0.25s ease-in-out;
+	&:hover {
+		background-color: #fff;
+		color: #01b5e1;
+	}
+}
+
+a {
+	text-decoration: none;
+}
+
+.container {
+	max-width: 1200px;
+	padding: 0 30px;
+	margin: 0 auto;
+}
+
+.fz_52 {
+	font-size: 52px;
+}
+
+.fz_16 {
+	font-size: 16px;
+	line-height: 25px;
+}
