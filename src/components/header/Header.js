@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import "./Header.scss";
 
-import mainIcon from "../../assets/main-icon.svg";
+import mainIcon from "../../assets/iconFor/site.svg";
 import instagram from "../../assets/media/instagram.svg";
 import telegram from "../../assets/media/telegram.svg";
 import whatsapp from "../../assets/media/whatsapp.svg";

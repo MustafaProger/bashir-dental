@@ -4,6 +4,11 @@
 	background-size: cover;
 	background-position: 50% 100%;
     margin-top: 140px;
+
+    .container {
+        padding: 0 30px;
+    }
+
 	&__content {
         max-width: 460px;
 		min-height: 640px;
@@ -14,4 +19,5 @@
         align-items: start;
         gap: 15px;
 	}
+
 }
