@@ -1,11 +1,12 @@
 import "./App.scss";
-import { Hero, About } from "../pages";
+import { Hero, About, Services } from "../pages";
 
 function App() {
 	return (
 		<div className='App'>
 			<Hero />
-			<About/>
+			<About />
+			<Services />
 		</div>
 	);
 }

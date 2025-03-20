@@ -3,7 +3,7 @@ import "./Hero.scss";
 
 const Hero = () => {
 	return (
-		<div class='hero'>
+		<section class='hero'>
 			<Header />
 			<div className='container'>
 				<div className='hero__content'>
@@ -15,7 +15,7 @@ const Hero = () => {
 					<button className='hero__btn btn'>Бесплатная консультация</button>
 				</div>
 			</div>
-		</div>
+		</section>
 	);
 };
 
