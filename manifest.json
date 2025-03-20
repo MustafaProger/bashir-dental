@@ -1,0 +1,50 @@
+{
+  "short_name": "Bashir Dental",
+  "name": "Стоматологичесиие услуги от специалиста",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "16x16 32x32 96x96",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "android-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "apple-icon-180x180.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    },
+    {
+      "src": "apple-icon-152x152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "ms-icon-310x310.png",
+      "type": "image/png",
+      "sizes": "310x310"
+    },
+    {
+      "src": "ms-icon-150x150.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+    {
+      "src": "ms-icon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
