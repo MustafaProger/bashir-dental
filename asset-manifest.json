@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/bashir-dental/static/css/main.ad89d001.css",
-    "main.js": "/bashir-dental/static/js/main.e86dcf23.js",
+    "main.css": "/bashir-dental/static/css/main.0da19f07.css",
+    "main.js": "/bashir-dental/static/js/main.2cf4d347.js",
     "static/js/453.aac7bc73.chunk.js": "/bashir-dental/static/js/453.aac7bc73.chunk.js",
     "static/media/main.png": "/bashir-dental/static/media/main.d9daaf2ad3411cda6586.png",
     "static/media/site.svg": "/bashir-dental/static/media/site.18c79e8be07ba315d37e90368fc7afb2.svg",
     "static/media/phone.svg": "/bashir-dental/static/media/phone.65732c6c21adaf6e1a871de84603b8da.svg",
-    "index.html": "/bashir-dental/index.html",
     "static/media/instagram.svg": "/bashir-dental/static/media/instagram.a0278b1421b9eafb6eeb2927e1d22581.svg",
+    "index.html": "/bashir-dental/index.html",
     "static/media/whatsapp.svg": "/bashir-dental/static/media/whatsapp.7e5c0e24a61476a13dba0d956778d1db.svg",
     "static/media/email.svg": "/bashir-dental/static/media/email.1d20c3b3b57b8a8f42b52db824029a4f.svg",
     "static/media/telegram.svg": "/bashir-dental/static/media/telegram.d1f49d05ac9353a47ff9a6c9a83c113f.svg",
-    "main.ad89d001.css.map": "/bashir-dental/static/css/main.ad89d001.css.map",
-    "main.e86dcf23.js.map": "/bashir-dental/static/js/main.e86dcf23.js.map",
+    "main.0da19f07.css.map": "/bashir-dental/static/css/main.0da19f07.css.map",
+    "main.2cf4d347.js.map": "/bashir-dental/static/js/main.2cf4d347.js.map",
     "453.aac7bc73.chunk.js.map": "/bashir-dental/static/js/453.aac7bc73.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad89d001.css",
-    "static/js/main.e86dcf23.js"
+    "static/css/main.0da19f07.css",
+    "static/js/main.2cf4d347.js"
   ]
 }
