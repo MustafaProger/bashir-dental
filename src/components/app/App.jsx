@@ -1,5 +1,5 @@
 import "./App.scss";
-import { Hero, About, Services } from "../pages";
+import { Hero, About, Services, Works } from "../pages";
 
 function App() {
 	return (
@@ -7,6 +7,7 @@ function App() {
 			<Hero />
 			<About />
 			<Services />
+			<Works />
 		</div>
 	);
 }
